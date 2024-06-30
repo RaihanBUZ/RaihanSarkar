@@ -8,7 +8,7 @@ I am Raihan Sarkar, an electrical engineering student with a passion for technol
 
 ## Website
 
-You can visit my website at [https://raihanbuz.github.io/](https://raihanbuz.github.io/).
+You can visit my website at [https://raihanbuz.github.io/](https://raihansarkar.weebly.com).
 
 ## Projects
 
