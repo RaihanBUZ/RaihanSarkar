@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raihan Sarkar - Electrical Engineering Student</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Raihan Sarkar's Website</h1>
+        <p>An electrical engineering student with a passion for photo and video editing.</p>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Discover Raihan Sarkar's journey as an electrical engineering student and explore insights into photo and video editing.</p>
+        </section>
+        <section>
+            <h2>BUZnSTG - YouTube Channel</h2>
+            <p>Visit my <a href="https://youtube.com/@buznstg?si=8FFVULTuxxpYxuot">YouTube Channel</a> for finance-related content and more!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Raihan Sarkar. All rights reserved.</p>
+    </footer>
+</body>
+</html>￼Enter
