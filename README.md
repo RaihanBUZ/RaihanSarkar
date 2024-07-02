@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an electrical engineering student with a passion for technology, creativity, and finance.
 
-<div style="background-color: #e6f2ff; padding: 20px; border-radius: 15px;">
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; font-family: 'Georgia', serif;">
 
 ## 🌐 Connect with Me
 
@@ -59,9 +59,9 @@ I am actively involved in various projects, both academic and personal. Here are
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages">
 </p>
 
 ---
