@@ -1,39 +1,38 @@
-# Raihan Sarkar's Personal Website
+# 🌟 Raihan Sarkar
 
-Welcome to my personal website! This repository contains the source code for my GitHub Pages site.
+Welcome to my GitHub profile! I'm an electrical engineering student with a passion for technology, creativity, and finance.
 
-## About Me
+---
 
-I am Raihan Sarkar, an electrical engineering student with a passion for technology and creativity. I have completed an ADCA computer course and have a solid understanding of computer basics. I also have a keen interest in photo and video editing, particularly thumbnail design. Additionally, I run a finance-related YouTube channel called BUZnSTG, where I share insights, tips, and knowledge about various finance topics to help viewers make informed financial decisions.
+## 🌐 Connect with Me
 
-## Website
+<p align="center">
+  <a href="https://raihansarkar.weebly.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=weebly&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.facebook.com/unique1x2" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://youtube.com/@buznstg?si=7hmwR9C1OouE7Yk7" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/raihan-sarkar-24070b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-You can visit my website at [https://raihanbuz.github.io/](https://raihansarkar.weebly.com).
+---
 
-## Projects
+## 👨‍💻 About Me
 
-### Thumbnail Design
+I am currently studying electrical engineering and have completed an ADCA computer course, giving me a solid understanding of computer basics. I have a keen interest in photo and video editing, specializing in thumbnail design. I also run a finance-related YouTube channel called BUZnSTG, where I share insights, tips, and knowledge about various finance topics to help viewers make informed financial decisions.
 
-I specialize in designing engaging and creative thumbnails for YouTube videos. Check out some of my work on my website.
+Feel free to reach out to me through any of the platforms above!
 
-### YouTube Channel - BUZnSTG
+---
 
-My YouTube channel, BUZnSTG, focuses on finance-related topics. Visit my channel at [BUZnSTG on YouTube](https://youtube.com/@buznstg?si=8FFVULTuxxpYxuot).
-
-## Get in Touch
-
-Feel free to reach out to me through my website or connect with me on [LinkedIn](your-linkedin-url). I'm always open to collaborating on exciting projects!
-
-## How to Contribute
-
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.￼Enter
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
