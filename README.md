@@ -1,6 +1,8 @@
 # Welcome to Raihan Sarkar's GitHub
 
-![Raihan Sarkar](https://www.imghippo.com/i/5mwb31719908589.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/tcV3Rdf/image.jpg" alt="Raihan Sarkar" style="border-radius: 50%; width: 150px;">
+</p>
 
 Hi there! I'm **Raihan Sarkar**, an electrical engineering student with a passion for technology and creativity.
 
@@ -25,19 +27,19 @@ On my YouTube channel, **BUZnSTG**, I share insights, tips, and knowledge about 
 Learn more about my projects and connect with me through my website:
 [Raihan Sarkar's Website](https://raihansarkar.weebly.com)
 
-### Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/unique1x2" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="border-radius:50%;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.linkedin.com/in/raihan-sarkar-24070b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="border-radius:50%;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://youtube.com/@buznstg?si=7hmwR9C1OouE7Yk7" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="border-radius:50%;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://raihansarkar.weebly.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" style="border-radius:50%;">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 
